@@ -1,24 +1,28 @@
 ⏱️ TimeHero - Task Timer App
 TimeHero is a full-stack productivity application that allows users to create, track, update, and delete tasks with estimated durations. It helps users improve time management and task organization with a clean, intuitive UI.
 
-🌐 Live Demo
+🌐 Live Demo : https://incomparable-panda-dcc19c.netlify.app/
 👉 Visit TimeHero
 
 🔧 Tech Stack
 🚀 Frontend
+
 React.js
 
 Tailwind CSS
 
 🔗 Backend
+
 Node.js
 
 Express.js
 
 🗃️ Database
+
 MongoDB
 
 ✨ Features
+
 ➕ Add new tasks with title, description, and duration
 
 📝 Edit and update existing tasks
@@ -49,10 +53,12 @@ bash
 Copy
 Edit
 # For frontend
+
 cd frontend
 npm install
 
 # For backend
+
 cd ../backend
 npm install
 Start the app
@@ -60,10 +66,12 @@ bash
 Copy
 Edit
 # Start backend server
+
 cd server
 nodemon server.js
 
 # Start frontend
+
 cd ../frontend
 npm run dev
 Make sure MongoDB is running locally or provide your MongoDB URI in the .env file.
