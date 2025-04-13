@@ -36,7 +36,8 @@ MongoDB
 💾 Connected to MongoDB for persistent storage
 
 📸 Screenshot
-![Screenshot (803)](https://github.com/user-attachments/assets/d707daf4-dcd5-4cce-920d-3574e0764a6d)
+![Screenshot (803)](https://github.com/user-attachments/assets/1e5cd2c1-7e53-432a-b92e-516700b34f88)
+
 
 
 
